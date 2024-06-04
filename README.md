@@ -16,4 +16,4 @@ The following **required** functionality is completed:
 
 
 
-<img src='/Users/brandonwetzel/github-classroom/COP4808-Spring2024-Full-Stack-Webdev/hw6-BwetzelFAU/WeatherApp2.0/public/Screen Recording - Apr 14, 2024.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/Users/brandonwetzel/github-classroom/COP4808-Spring2024-Full-Stack-Webdev/hw6-BwetzelFAU/WeatherApp2.0/public/hw5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
