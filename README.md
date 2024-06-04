@@ -1,4 +1,4 @@
-# Web Development Project 6 - World-Wide Weather App
+# World-Wide Weather App
 
 Submitted by: Brandon Wetzel
 
