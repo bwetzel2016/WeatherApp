@@ -23,7 +23,7 @@ This web app allows users to search for weather forecasts by city and state, dis
 -npm install.
 
 ### Run the application
-npm run dev
+-npm run dev.
 
 ## Authors
 Brandon Wetzel
