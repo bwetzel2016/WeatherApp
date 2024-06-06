@@ -19,10 +19,10 @@ This web app allows users to search for weather forecasts by city and state, dis
 ### Installing
 
 Install Node.js:
+npm install
 
-
-### Executing program
-
+### Run the application
+npm run dev
 
 ## Authors
 Brandon Wetzel
