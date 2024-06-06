@@ -18,8 +18,8 @@ This web app allows users to search for weather forecasts by city and state, dis
 
 ### Installing
 
-Install Node.js:
-npm install
+-Install Node.js:
+-npm install
 
 ### Run the application
 npm run dev
